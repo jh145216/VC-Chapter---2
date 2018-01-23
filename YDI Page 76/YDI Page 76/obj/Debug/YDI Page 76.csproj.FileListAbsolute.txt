@@ -1,0 +1,6 @@
+C:\Users\jh145216\AppData\Local\Temporary Projects\YDI Page 76\bin\Debug\YDI Page 76.exe.config
+C:\Users\jh145216\AppData\Local\Temporary Projects\YDI Page 76\bin\Debug\YDI Page 76.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\YDI Page 76\bin\Debug\YDI Page 76.pdb
+C:\Users\jh145216\AppData\Local\Temporary Projects\YDI Page 76\obj\Debug\YDI Page 76.csprojResolveAssemblyReference.cache
+C:\Users\jh145216\AppData\Local\Temporary Projects\YDI Page 76\obj\Debug\YDI Page 76.exe
+C:\Users\jh145216\AppData\Local\Temporary Projects\YDI Page 76\obj\Debug\YDI Page 76.pdb
